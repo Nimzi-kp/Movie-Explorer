@@ -69,7 +69,7 @@ cd Movie-Explorer
 ```bash
 cd backend
 npm install
-node index.js
+npm run start (or) npm run dev
 ```
 
 This starts the server on:
